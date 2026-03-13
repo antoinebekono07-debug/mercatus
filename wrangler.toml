@@ -11,7 +11,7 @@ database_id = "YOUR_DATABASE_ID_HERE"
 binding = "PRODUCT_IMAGES"
 bucket_name = "myzone-products"
 
-[[ai]]
+[ai]
 binding = "AI"
 
 [[vectorize]]
